@@ -1,0 +1,101 @@
+empleado_id,nombre,apellido,genero,fecha_nacimiento,fecha_ingreso,departamento,cargo,nivel_educativo,salario_mensual,desempeno,ciudad
+E001,Carlos,Quispe,M,1985-03-12,2015-06-01,Ventas,Ejecutivo de Ventas,Universitario,3200,Bueno,Lima
+E002,María,Flores,F,1990-07-24,2018-02-15,Recursos Humanos,Analista de RRHH,Universitario,2800,Excelente,Lima
+E003,Jorge,Mamani,M,1982-11-05,2010-09-01,Operaciones,Supervisor,Técnico,2500,Regular,Arequipa
+E004,Lucía,Torres,F,1995-01-30,2020-03-10,Tecnología,Desarrolladora,Universitario,4200,Excelente,Lima
+E005,Roberto,Huanca,M,1988-06-18,2013-11-20,Finanzas,Contador,Universitario,3500,Bueno,Lima
+E006,Ana,Sánchez,F,1992-09-14,2019-05-05,Marketing,Especialista,Universitario,3100,Bueno,Trujillo
+E007,Pedro,Ccopa,M,1980-04-22,2008-01-15,Operaciones,Jefe de Planta,Técnico,4800,Bueno,Arequipa
+E008,Sofía,Vega,F,1997-12-03,2022-08-01,Ventas,Ejecutivo de Ventas,Universitario,2900,Regular,Lima
+E009,Miguel,Ríos,M,1986-08-09,2014-04-20,Tecnología,Arquitecto de Software,Posgrado,6500,Excelente,Lima
+E010,Carmen,Paucar,F,1991-02-27,2017-10-10,Finanzas,Analista Financiero,Universitario,3300,Bueno,Lima
+E011,Luis,Condori,M,1984-05-16,2011-07-01,Recursos Humanos,Jefe de RRHH,Posgrado,5200,Excelente,Lima
+E012,Patricia,Medina,F,1993-10-08,2018-12-03,Marketing,Coordinadora,Universitario,3400,Bueno,Lima
+E013,Fernando,Apaza,M,1979-07-31,2006-03-14,Operaciones,Gerente de Operaciones,Posgrado,7800,Excelente,Arequipa
+E014,Valeria,Cruz,F,1996-04-19,2021-06-07,Tecnología,QA Engineer,Universitario,3800,Bueno,Lima
+E015,Andrés,Lazo,M,1989-01-25,2016-09-01,Ventas,Supervisor de Ventas,Universitario,4100,Bueno,Trujillo
+E016,Gabriela,Núñez,F,1994-08-11,2020-11-15,Finanzas,Tesorera,Universitario,3600,Excelente,Lima
+E017,Ricardo,Paredes,M,1983-03-07,2009-05-20,Tecnología,Gerente de TI,Posgrado,8500,Excelente,Lima
+E018,Diana,Rojas,F,1998-06-29,2023-01-10,Marketing,Asistente,Técnico,2200,Regular,Lima
+E019,Héctor,Villanueva,M,1987-11-14,2013-08-01,Operaciones,Analista de Procesos,Universitario,3000,Bueno,Cusco
+E020,Mónica,Gutiérrez,F,1990-09-02,2017-02-28,Recursos Humanos,Analista de RRHH,Universitario,2700,Regular,Lima
+E021,César,Huamán,M,1981-12-20,2007-10-15,Finanzas,Gerente Financiero,Posgrado,9200,Excelente,Lima
+E022,Paola,Espinoza,F,1995-05-17,2021-03-22,Ventas,Ejecutivo de Ventas,Técnico,2600,Regular,Lima
+E023,Manuel,Ticona,M,1986-02-08,2012-06-01,Operaciones,Técnico de Mantenimiento,Secundaria,1900,Regular,Arequipa
+E024,Natalia,Bermúdez,F,1993-07-26,2019-09-10,Tecnología,Analista de Datos,Universitario,4500,Excelente,Lima
+E025,Álvaro,Sucapuca,M,1978-10-13,2005-01-20,Ventas,Gerente de Ventas,Posgrado,8800,Excelente,Lima
+E026,Roxana,Chávez,F,1992-03-04,2018-07-01,Recursos Humanos,Especialista en Capacitación,Universitario,3100,Bueno,Lima
+E027,Iván,Quispe,M,1988-08-21,2015-12-01,Tecnología,Desarrollador Backend,Universitario,4300,Bueno,Lima
+E028,Claudia,Herrera,F,1997-01-15,2022-05-16,Finanzas,Asistente Contable,Técnico,2100,Regular,Lima
+E029,Ernesto,Málaga,M,1984-06-30,2010-11-01,Marketing,Gerente de Marketing,Posgrado,8200,Excelente,Lima
+E030,Verónica,Salas,F,1991-11-09,2016-04-05,Operaciones,Coordinadora Logística,Universitario,3200,Bueno,Trujillo
+E031,Javier,Ccallo,M,1980-09-17,2007-08-20,Finanzas,Analista Senior,Universitario,4700,Bueno,Lima
+E032,Silvia,Montoya,F,1994-04-23,2020-07-12,Ventas,Ejecutivo de Cuentas,Universitario,3300,Bueno,Lima
+E033,Raúl,Bustamante,M,1985-02-11,2011-03-01,Recursos Humanos,Psicólogo Organizacional,Universitario,3400,Bueno,Lima
+E034,Karina,Delgado,F,1990-12-28,2017-06-20,Tecnología,UX Designer,Universitario,4000,Excelente,Lima
+E035,Óscar,Pinto,M,1982-07-05,2008-09-10,Operaciones,Inspector de Calidad,Técnico,2800,Regular,Arequipa
+E036,Melissa,Arias,F,1996-10-01,2021-10-04,Marketing,Community Manager,Universitario,2700,Bueno,Lima
+E037,Gonzalo,Vargas,M,1987-05-24,2014-01-15,Tecnología,DevOps Engineer,Universitario,5100,Excelente,Lima
+E038,Tatiana,Cáceres,F,1993-02-16,2019-04-01,Finanzas,Analista de Riesgos,Universitario,3800,Bueno,Lima
+E039,Enrique,Díaz,M,1979-08-03,2005-07-01,Ventas,Director Comercial,Posgrado,11000,Excelente,Lima
+E040,Lucero,Pumayalli,F,1998-03-12,2023-04-17,Recursos Humanos,Asistente de RRHH,Técnico,1900,Regular,Lima
+E041,Sebastián,Ortiz,M,1991-06-08,2017-11-20,Operaciones,Analista de Cadena de Suministro,Universitario,3500,Bueno,Lima
+E042,Yolanda,Farfán,F,1985-01-19,2012-02-01,Finanzas,Contadora Senior,Universitario,4400,Bueno,Lima
+E043,Cristian,Linares,M,1994-09-27,2020-06-01,Tecnología,Desarrollador Frontend,Universitario,4000,Bueno,Lima
+E044,Brenda,Zárate,F,1989-04-14,2015-08-10,Marketing,Analista de Mercado,Universitario,3200,Bueno,Trujillo
+E045,Marcos,Cárdenas,M,1983-12-01,2009-10-15,Operaciones,Gerente de Logística,Posgrado,7200,Excelente,Lima
+E046,Fiorella,Lozano,F,1996-07-22,2021-12-01,Ventas,Ejecutivo de Ventas,Universitario,2900,Bueno,Lima
+E047,Diego,Salazar,M,1988-03-10,2014-05-20,Tecnología,Analista de Seguridad,Universitario,4600,Excelente,Lima
+E048,Pamela,Reyes,F,1992-10-05,2018-09-03,Recursos Humanos,Coordinadora de Bienestar,Universitario,3000,Bueno,Lima
+E049,Alfredo,Cornejo,M,1981-05-28,2007-01-10,Finanzas,Controller,Posgrado,6800,Excelente,Lima
+E050,Stephanie,Villafuerte,F,1997-08-16,2022-10-24,Marketing,Asistente de Marketing,Técnico,2200,Regular,Lima
+E051,Nicolás,Pariona,M,1986-11-03,2013-03-01,Ventas,Ejecutivo Senior,Universitario,3700,Bueno,Lima
+E052,Adriana,Meza,F,1991-06-21,2016-12-15,Operaciones,Analista de Procesos,Universitario,3100,Bueno,Cusco
+E053,Rodrigo,Aliaga,M,1984-02-14,2010-06-01,Tecnología,Scrum Master,Universitario,5300,Excelente,Lima
+E054,Lorena,Quispe,F,1993-09-08,2019-02-18,Finanzas,Analista Tributaria,Universitario,3500,Bueno,Lima
+E055,Pablo,Huancahuari,M,1980-12-25,2006-08-01,Recursos Humanos,Gerente de RRHH,Posgrado,9500,Excelente,Lima
+E056,Cecilia,Bendezú,F,1995-03-31,2021-01-11,Ventas,Ejecutivo de Ventas,Universitario,2900,Regular,Arequipa
+E057,Marcelo,Turpo,M,1987-07-18,2014-10-01,Operaciones,Jefe de Almacén,Técnico,3300,Bueno,Arequipa
+E058,Ingrid,Campos,F,1990-04-26,2017-04-24,Tecnología,Business Analyst,Universitario,4100,Bueno,Lima
+E059,Arturo,Benavides,M,1982-09-13,2008-12-01,Marketing,Director de Marketing,Posgrado,10500,Excelente,Lima
+E060,Rosa,Inca,F,1998-01-07,2023-07-03,Finanzas,Practicante,Universitario,1200,Regular,Lima
+E061,Augusto,Mendoza,M,1985-06-04,2012-09-01,Ventas,Supervisor Regional,Universitario,4900,Bueno,Lima
+E062,Milagros,Atauje,F,1994-11-20,2020-02-10,Tecnología,Data Engineer,Universitario,5200,Excelente,Lima
+E063,Rubén,Coaquira,M,1979-03-09,2005-04-15,Operaciones,Director de Operaciones,Posgrado,12000,Excelente,Lima
+E064,Elizabeth,Pumacahua,F,1992-08-17,2018-06-01,Recursos Humanos,Analista de Selección,Universitario,2900,Bueno,Lima
+E065,Víctor,Soto,M,1988-01-23,2015-02-01,Finanzas,Analista Financiero,Universitario,3400,Bueno,Lima
+E066,Mariana,Cuno,F,1996-05-11,2021-08-16,Marketing,Diseñadora Gráfica,Universitario,2800,Bueno,Lima
+E067,Franklin,Quispe,M,1983-10-29,2009-07-20,Tecnología,Gerente de Proyectos,Posgrado,8900,Excelente,Lima
+E068,Jacqueline,Huayta,F,1991-03-06,2016-11-01,Ventas,Key Account Manager,Universitario,4600,Excelente,Lima
+E069,Wilmer,Choquehuanca,M,1986-08-15,2013-05-01,Operaciones,Técnico de Procesos,Secundaria,2000,Regular,Puno
+E070,Sandra,Palomino,F,1990-12-02,2017-09-11,Finanzas,Jefa de Contabilidad,Universitario,5600,Excelente,Lima
+E071,Dante,Quispe,M,1984-04-18,2010-03-01,Recursos Humanos,Especialista en Compensaciones,Universitario,4200,Bueno,Lima
+E072,Xiomara,Tapia,F,1997-07-25,2022-03-07,Marketing,Analista Digital,Universitario,3000,Bueno,Lima
+E073,Walter,Llano,M,1981-11-12,2007-12-10,Ventas,Gerente de Cuentas,Posgrado,7500,Excelente,Lima
+E074,Pierina,Ramos,F,1995-02-08,2021-05-03,Tecnología,Desarrolladora Móvil,Universitario,4400,Excelente,Lima
+E075,Abraham,Ticlla,M,1980-06-26,2006-10-01,Operaciones,Gerente de Calidad,Posgrado,8100,Excelente,Arequipa
+E076,Wendy,Estrada,F,1993-01-13,2019-07-22,Finanzas,Analista de Costos,Universitario,3300,Bueno,Lima
+E077,Edmundo,Puma,M,1987-09-01,2014-08-15,Tecnología,DBA,Universitario,4800,Bueno,Lima
+E078,Rossana,Llantoy,F,1992-06-19,2018-01-08,Recursos Humanos,Analista de Clima Laboral,Universitario,3100,Bueno,Lima
+E079,Germán,Cueva,M,1985-04-07,2011-10-20,Marketing,Gerente de Producto,Posgrado,8600,Excelente,Lima
+E080,Leonor,Quispe,F,1998-09-14,2023-10-02,Ventas,Ejecutivo de Ventas,Técnico,2400,Regular,Lima
+E081,Saúl,Carbajal,M,1983-07-22,2009-02-01,Operaciones,Analista de Logística,Universitario,3000,Bueno,Lima
+E082,Nadia,Mejía,F,1994-12-09,2020-09-14,Tecnología,Cloud Engineer,Universitario,5500,Excelente,Lima
+E083,Helio,Arones,M,1979-05-17,2005-11-01,Finanzas,Director Financiero,Posgrado,14000,Excelente,Lima
+E084,Ivette,Palma,F,1991-10-24,2017-07-03,Marketing,Especialista en SEO,Universitario,3300,Bueno,Lima
+E085,Ulises,Turpo,M,1986-03-03,2012-12-10,Ventas,Analista de Ventas,Universitario,3100,Bueno,Lima
+E086,Shirley,Mango,F,1995-08-21,2021-04-19,Recursos Humanos,Asistente Legal,Universitario,2700,Regular,Lima
+E087,Nicolás,Huanca,M,1984-01-08,2010-07-01,Operaciones,Supervisor de Producción,Técnico,3600,Bueno,Arequipa
+E088,Giuliana,Cóndor,F,1990-05-15,2016-08-22,Finanzas,Analista de Presupuesto,Universitario,3700,Bueno,Lima
+E089,Teodoro,Hancco,M,1982-10-02,2008-04-15,Tecnología,Arquitecto de Datos,Posgrado,9800,Excelente,Lima
+E090,Pilar,Anco,F,1997-03-19,2022-07-11,Marketing,Creadora de Contenido,Técnico,2500,Bueno,Lima
+E091,Rolando,Mamani,M,1988-12-27,2015-05-01,Ventas,Ejecutivo Senior,Universitario,3800,Bueno,Lima
+E092,Flor,Ccahuana,F,1993-07-04,2019-11-18,Operaciones,Analista de Inventarios,Universitario,2900,Regular,Lima
+E093,Bruno,Quispe,M,1987-04-11,2014-02-03,Tecnología,Líder Técnico,Universitario,6200,Excelente,Lima
+E094,Cynthia,Vilca,F,1992-01-28,2018-03-05,Recursos Humanos,Analista de RRHH,Universitario,2800,Bueno,Lima
+E095,Augusto,Callata,M,1981-08-05,2007-06-20,Finanzas,Gerente de Auditoría,Posgrado,9100,Excelente,Lima
+E096,Alejandra,Quispe,F,1996-11-22,2021-09-27,Marketing,Analista de Marca,Universitario,3000,Bueno,Lima
+E097,Yerson,Huallpa,M,1985-05-30,2012-04-01,Ventas,Jefe de Ventas,Universitario,5800,Excelente,Lima
+E098,Katy,Suca,F,1994-02-17,2020-05-06,Tecnología,Analista de BI,Universitario,4700,Excelente,Lima
+E099,Maximiliano,Quispe,M,1980-07-24,2006-01-09,Operaciones,Gerente de Planta,Posgrado,10200,Excelente,Arequipa
+E100,Delia,Tito,F,1999-04-01,2024-02-01,Recursos Humanos,Practicante,Técnico,1000,Regular,Lima
